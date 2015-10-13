@@ -6,16 +6,16 @@
     <gradient
         android:angle="45"
         android:centerX="35%"
-        android:centerColor="#000000"
-        android:startColor="#000000"
-        android:endColor="#000000"
+        android:centerColor="#D3FFCC"
+        android:startColor="#F5FAFF"
+        android:endColor="#ABFFE6"
         android:type="linear"
         />
     <padding
-        android:left="1dp"
-        android:top="1dp"
-        android:right="1dp"
-        android:bottom="1dp"
+        android:left="0dp"
+        android:top="0dp"
+        android:right="0dp"
+        android:bottom="0dp"
         />
     <size
         android:width="270dp"
